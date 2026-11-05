@@ -1,0 +1,10 @@
+[package]
+name = "rs-serde-json"
+version = "1.0.0"
+edition = "2021"
+description = "serde_json-compatible JSON serializer/deserializer"
+license = "MIT"
+
+[[bin]]
+name = "rs_serde_json"
+path = "main.rs"
